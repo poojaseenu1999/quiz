@@ -1,0 +1,19 @@
+#img {
+    float: right;
+}
+img:hover {
+    transition: all 1s;
+    transform: scaleX(1.1);
+}
+body {
+    font-size: larger;
+    text-align: center;
+}
+#img2 {
+    float: left;
+}
+h1 {
+  color:#ffd8a6 ;
+  text-decoration: underline;
+
+}
